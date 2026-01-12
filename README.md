@@ -10,7 +10,7 @@ This Python project generates and solves 2D grid-based mazes with random obstacl
 - Reconstructs and visualizes the solution path from start to end using backtracking.
 
 ## Example Output
-
+'''
 S * * 0 0 0 0 0 0
 X X * X 0 0 0 X 0
 X X * 0 0 0 0 X 0
@@ -20,3 +20,4 @@ X X * 0 0 0 0 X 0
 X 0 X * 0 0 0 0 X
 0 0 X * E X X 0 0
 0 0 0 0 0 0 0 0 0
+'''
